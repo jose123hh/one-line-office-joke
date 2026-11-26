@@ -8,9 +8,8 @@ Writes a single office joke, one line under 200 characters, to
 import os
 
 JOKE = (
-    "The password policy demands 12 characters, a capital, and a symbol, "
-    "so the whole office's password is just the current season "
-    "with an exclamation mark."
+    "They gave us unlimited time off, which is how I learned the real "
+    "limit was the guilt trip from everyone who noticed I took any."
 )
 
 
