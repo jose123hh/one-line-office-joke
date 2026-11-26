@@ -8,9 +8,9 @@ Writes a single office joke, one line under 200 characters, to
 import os
 
 JOKE = (
-    "I hit reply-all to tell everyone to stop replying-all, "
-    "and HR replied-all asking me to stop replying-all, "
-    "so now Legal is replying-all about it too."
+    "The password policy demands 12 characters, a capital, and a symbol, "
+    "so the whole office's password is just the current season "
+    "with an exclamation mark."
 )
 
 
